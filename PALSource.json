@@ -1,0 +1,41 @@
+{
+    "name": "EeveeSpotify",
+    "subtitle": "All my apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "iconURL": "https://img.icons8.com/?size=96&id=uReW0m8BAaaL&format=png",
+    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+    "website": "https://example.com",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.spotify.client",
+    ],
+    "apps": [
+        {
+            "name": "EeveeSpotify",
+            "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "324684580",
+      "developerName": "aceiiw",
+            "subtitle": "An awesome app.",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://img.icons8.com/?size=96&id=uReW0m8BAaaL&format=png",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://example.com/myapp_portrait_screenshot1.png",
+                "https://example.com/myapp_portrait_screenshot2.png",
+                {
+                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+                    "width": 2556,
+                    "height": 1179
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+          "buildVersion": "2",
+          "date": "2022-05-01T09:00:00-08:00",
+                    "size": 20000000,
+                    "downloadURL": "https://github.com/acei01/EeveeSpotifyReborn/releases/download/untagged-ff7d730431eae7e0726d/EeveeSpotify.ipa",
+                    "localizedDescription": "New features and bug fixes.",
+                    "minOSVersion": "12.0"
+                },
+             
